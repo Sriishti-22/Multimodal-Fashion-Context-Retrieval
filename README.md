@@ -1,0 +1,4 @@
+The goal of this assignment is to build an intelligent search engine that can retrieve specific 
+images from a diverse database based on natural language descriptions. The system needs 
+to understand not just "what" someone is wearing, but "where" they are and the "vibe" of 
+their attire.
